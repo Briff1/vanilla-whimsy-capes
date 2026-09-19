@@ -1,1 +1,18 @@
-test
+{
+  "@allcapes": {
+    "uuids": [],
+    "names": []
+  },
+  "duckcape": {
+    "uuids": [],
+    "names": []
+  },
+  "translator": {
+    "uuids": [],
+    "names": []
+  },
+  "donator": {
+    "uuids": [],
+    "names": []
+  }
+}
